@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Apuntes.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MisApuntes"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="15" Y="4"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistados.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="13"/>
+        <CursorPos X="3" Y="159"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/fcl-base/src/custapp.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="15" Y="67"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/fcl-db/src/sqldb/sqldb.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="SQLDB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3191"/>
+        <CursorPos X="3" Y="3195"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/objpas/character.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Character"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="346"/>
+        <CursorPos X="10" Y="356"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uayuda.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="2" Y="11"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="49" Column="23" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="33" Column="4" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="47" Column="2" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="33" Column="4" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="47" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="33" Column="12" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="87" Column="17" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="36" Column="15" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="36" Column="19" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="227" Column="2" TopLine="220"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="55" Column="23" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="79" Column="11" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="185" Column="37" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="30" Column="9" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="50" Column="5" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="60" Column="5" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="63" Column="8" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="16" Column="11" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="uayuda.pas"/>
+        <Caret Line="14" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uayuda.pas"/>
+        <Caret Line="36" Column="43" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="uayuda.pas"/>
+        <Caret Line="14" Column="5" TopLine="6"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

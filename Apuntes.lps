@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="Apuntes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MisApuntes"/>
+        <TopLine Value="156"/>
+        <CursorPos X="26" Y="164"/>
+        <FoldState Value=" T3o826 T0oS05="/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ulistados.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="223"/>
+        <CursorPos X="22" Y="231"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="funciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="9" Y="43"/>
+        <UsageCount Value="39"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uayuda.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="18"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/objpas/sysutils/datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="183"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/objpas/objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="293"/>
+        <CursorPos X="10" Y="303"/>
+        <UsageCount Value="8"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/fcl-base/src/custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="521"/>
+        <CursorPos X="3" Y="529"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="uoperaciones.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="18"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/fcl-db/src/sqldb/sqldb.pp"/>
+        <UnitName Value="SQLDB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3030"/>
+        <CursorPos X="3" Y="3033"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/rtl-console/src/inc/crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="81"/>
+        <CursorPos X="11" Y="90"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="130" Column="19" TopLine="124"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="38" Column="11" TopLine="29"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="313" Column="23" TopLine="299"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="38" Column="23" TopLine="29"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="306" Column="3" TopLine="311"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="39" Column="11" TopLine="30"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="384" Column="6" TopLine="385"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="274" Column="42" TopLine="262"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="39" Column="14" TopLine="29"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="33" Column="18" TopLine="22"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="274" Column="42"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="298" Column="10" TopLine="284"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="164" Column="26" TopLine="156"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="199" Column="21" TopLine="183"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="233" Column="21" TopLine="220"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Apuntes.pas"/>
+        <Caret Line="296" Column="22" TopLine="284"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="2" Column="15"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="236" Column="19" TopLine="222"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="259" Column="19" TopLine="251"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="275" Column="20" TopLine="261"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="342" Column="19" TopLine="328"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="364" Column="19" TopLine="353"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="380" Column="20" TopLine="366"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="420" Column="13" TopLine="405"/>
+      </Position24>
+      <Position25>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="457" Column="13" TopLine="442"/>
+      </Position25>
+      <Position26>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="493" Column="13" TopLine="478"/>
+      </Position26>
+      <Position27>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="562" Column="15" TopLine="549"/>
+      </Position27>
+      <Position28>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="639" Column="18" TopLine="625"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="718" Column="15" TopLine="702"/>
+      </Position29>
+      <Position30>
+        <Filename Value="ulistados.pas"/>
+        <Caret Line="728" Column="6" TopLine="719"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
